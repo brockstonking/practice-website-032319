@@ -1,0 +1,122 @@
+.upper-body {
+
+}
+
+.church-logo {
+    margin: auto;
+    margin-top: 35px;
+}
+
+.church-logo-img {    
+    height: 50px;    
+    margin-left: 110px;
+}
+
+.upper-body-top {
+    display: flex;
+}
+
+.upper-body-bottom {
+    box-shadow: 0px 0px 3px grey;display: flex;margin-top: 39px;
+}
+
+.upper-menu {    
+    width: 12%;
+}
+
+.menu-items {
+    display: flex;
+    margin: auto;
+    width: 70%;
+}
+
+.bar {
+    height: 56px;
+    background-image: linear-gradient(90deg, rgb(18, 85, 103) 0%, rgb(59, 189, 208) 46%, rgb(225, 250, 255) 100%);
+    width: 66px;
+}
+
+.item {
+    margin: 12px;
+    font-size: 13px;
+}
+
+.search {
+    margin-top: 17px;
+    margin-right: 12px;
+}
+
+.search-icon {     
+    height: 20px;      
+    width: 20px;
+}
+
+.lower-body {
+    display: flex;
+    margin: 5px;
+    height: 60vh;
+    margin-left: 40px;
+}
+
+.large-img-cont {
+    margin: 5px;
+    margin-top: 33px;
+    height: 104%;
+    background-image: url(https://media.deseretdigital.com/file/eb1ca32128?resize=width_1200&type=jpg&c=6&a=e0717f4c);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.small-img-cont {
+    margin: 5px;
+}
+
+.lower-text {
+    position: relative;
+    top: 101px;
+    margin-left: 5px;
+}
+
+.upper-text {
+    position: relative;
+    top: 103px;
+    margin-left: 5px;
+}
+
+.left-text {
+    position: relative;top: 276px;margin-left: 5px;
+}
+
+.large-image {
+
+}
+
+.sm-up-img {
+    height: 50%;
+    background-image: url(https://media.ldscdn.org/images/media-library/scripture-study/scripture-study-428836-wallpaper.jpg?download=true);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.sm-dn-img {
+    height: 50%;
+    background-image: url(http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos-2014/2014-01-005-christ-and-the-rich-young-ruler-1920x960.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    border: 1px white;
+    margin-top: -3px;
+}
+
+h6 {       
+    font-family: sans-serif;       
+    font-size: 12px;       
+    margin-bottom: -27px;
+}
+
+p {        
+    font-family: sans-serif;       
+    font-size: 25px;
+}
